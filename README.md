@@ -17,6 +17,7 @@ This repository implements a **Real-Time Speech Emotion Recognition** system tai
 
 ### Prerequisites
 1. Install the required Python packages:
+
 The necessary packages include:
 
 - `numpy`

@@ -42,7 +42,7 @@ The necessary packages include:
 
 ```bash
 git clone https://github.com/kasrababazadeh/real-time-speech-emotion-recognition.git
-cd speech-emotion-recognition
+cd real-time-speech-emotion-recognition
 ```
 Set up the configuration for the feature extraction and model in utils.py.
 

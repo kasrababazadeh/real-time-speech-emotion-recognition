@@ -97,3 +97,21 @@ Each prediction is logged with the following format:
 2024-10-08 14:35:21 - Duration: 3.5 - Prediction: Happy - Scores: [0.1, 0.7, 0.1, 0.1]
 ```
 
+Where:
+
+- **Duration**: The duration of the speech segment in seconds.
+- **Prediction**: The predicted emotion.
+- **Scores**: The confidence scores for each emotion class.
+
+## Performance
+
+The system achieves over **90% accuracy** on the Persian speech emotion dataset, distinguishing between positive, negative, and neutral emotions.
+
+## Contributing
+
+Contributions are welcome! If you find any issues or want to add new features, feel free to submit a Pull Request or open an Issue.
+
+## License
+
+Copyright 2024 Kasra Babazadeh-Mahalleh
+For more details, see the [LICENSE](LICENSE) file.

@@ -48,7 +48,7 @@ Set up the configuration for the feature extraction and model in utils.py.
 
 ### Start real-time recording, segmentation, and emotion prediction:
 ```bash
-python main.py
+python real-time-speech-emotion-recognition.py
 ```
 
 ## Model Details
@@ -91,7 +91,7 @@ The system records audio for a specified duration (default: 5 seconds), segments
 Each prediction is logged with the following format:
 
 ```less
-2024-10-08 14:35:21 - Duration: 3.5 - Prediction: Happy - Scores: [0.1, 0.7, 0.1, 0.1]
+2024-10-08 14:35:21 - Duration: 3.5 - Prediction: Positive - Scores: [0.1, 0.7, 0.1, 0.1]
 ```
 
 Where:

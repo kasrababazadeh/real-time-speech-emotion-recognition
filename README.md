@@ -36,7 +36,7 @@ The necessary packages include:
   ```
   - On Windows: Download and install FFmpeg from https://ffmpeg.org/download.html.
 
-  ## Running the Program
+## Running the Program
 
 ### Clone the repository:
 
